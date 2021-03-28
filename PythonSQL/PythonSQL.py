@@ -3,6 +3,7 @@ import pyodbc,json
 # Sample code for connecting Azure SQL DB from Python and creating a key value dictionary 
 # Pre requisite install pyodbc module & MS SQL ODBC driver 
 
+
 server = 'mssqlserver535.database.windows.net' 
 driver= '{ODBC Driver 13 for SQL Server}'
 database = 'MSQLIOT535' 
